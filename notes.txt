@@ -1,0 +1,23 @@
+repo structure 
+
+Folders 
+- workflow (python source)
+- scripts (bash files)
+- configs (experimentation configs)
+- docker 
+- doc (API documentation)
+- tests (unit tests) 
+- results (experimentation results)
+- ref (references)
+
+
+Files 
+- requirements.txt 
+- setup.py 
+
+
+Miscellaneous 
+- README.md
+- LICENSE
+- INSTALL.md 
+- .gitignore 
