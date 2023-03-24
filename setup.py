@@ -12,7 +12,7 @@ setup(
     description='My machine learning experimentation workflow',
     long_description=open('README.txt').read(),
     install_requires=[
-        "mlflow == 0.8.0",
+        "mlflow == 2.2.1",
         "yacs == 0.1.4",
     ],
 )
